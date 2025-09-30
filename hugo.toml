@@ -1,18 +1,13 @@
-baseURL = "https:fjhskfs415263.github.io/myPoems/"
+baseURL = "https://fjhskfs415263.github.io/myPoems/"
 languageCode = "en-us"
 title = "my poems"
 theme = "hugo-book"
-
-
-
-#[params]
-#customCSS = ["css/custom.css"]
-
+relativeURLs = true
+canonifyURLs = false
 
 # Widgets 配置
 [widgets]
 
-  # 首页 widgets
   [[widgets.homepage]]
   type = "search"
 
@@ -31,11 +26,11 @@ theme = "hugo-book"
     [widgets.homepage.params]
     limit = 10
 
-  # 页面 widgets
   [[widgets.page]]
   type = "toc"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = true
-        unsafe = true
+      unsafe = true
