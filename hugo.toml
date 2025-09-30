@@ -2,8 +2,8 @@ baseURL = "https://fjhskfs415263.github.io/myPoems/"
 languageCode = "en-us"
 title = "my poems"
 theme = "hugo-book"
-relativeURLs = true
-canonifyURLs = false
+relativeURLs = false
+canonifyURLs = true
 
 # Widgets 配置
 [widgets]
