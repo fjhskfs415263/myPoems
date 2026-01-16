@@ -44,28 +44,32 @@ if ($LASTEXITCODE -ne 0) {
     exit 1
 }
 
-# === Step 3: 推送到 gh-pages 分支 ===
-Write-Host "==> Step 3: 部署构建产物到 gh-pages" -ForegroundColor Cyan
-Set-Location $PublicPath
+# === Step 3: 部署 gh-pages (增强版) ===
+Write-Host "==> Step 3: 推送到 gh-pages 分支" -ForegroundColor Cyan
+Set-Location "$RepoPath/public"
 
-# 即使删除了 .git 重新 init，也要确保添加 .nojekyll (GitHub Pages 必须)
-New-Item -ItemType File -Name ".nojekyll" -Force | Out-Null
-
+# 1. 彻底重新初始化
+if (Test-Path ".git") { Remove-Item -Recurse -Force ".git" }
 git init
+git config core.quotepath false  # 防止中文路径乱码
+
+# 2. 准备基础环境
 git checkout -b $BranchName
 git remote add origin $RemoteURL
-git add -A
-git commit -m "Deploy site $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+New-Item -Path . -Name ".nojekyll" -ItemType "file" -Force | Out-Null
 
-# 强制推送覆盖远程 gh-pages，因为 public 每次都是重新生成的
-git push -f origin $BranchName
+# 3. 提交文件
+git add .
+# 注意：这里我们强制捕获 commit 的状态
+$commitMessage = "Deploy site $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+git commit -m "$commitMessage"
 
-if ($LASTEXITCODE -eq 0) {
-    Write-Host "✅ 部署成功！已推送到 gh-pages 分支。" -ForegroundColor Green
+# 4. 关键检查：只有本地有 commit 记录时才 push
+$headExists = git rev-parse --verify HEAD 2>$null
+if ($headExists) {
+    Write-Host "🚀 正在推送至 GitHub..." -ForegroundColor Cyan
+    git push -f origin $BranchName
 } else {
-    Write-Host "❌ 部署失败，请检查 SSH 权限。" -ForegroundColor Red
+    Write-Host "❌ 错误：本地没有产生任何提交记录（可能是 git add 失败），请检查 public 文件夹内容。" -ForegroundColor Red
+    exit 1
 }
-
-Set-Location $RepoPath
-Write-Host "`n===============================" -ForegroundColor Cyan
-Write-Host "🏁 部署流程完成。" -ForegroundColor Cyan
