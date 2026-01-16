@@ -1,12 +1,13 @@
 ---
 aliases: 
 tags: 
-date: 2025-08-27
+date: "2025-08-27T00:00:00"
 language: en
 title: 鱼雷(torpedo)
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 You drift  
 on the sea of life,  

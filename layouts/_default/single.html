@@ -1,0 +1,102 @@
+{{ define "main" }}
+<style>
+  /* 全局基础字体比例 */
+  html {
+      font-size: 16px;
+  }
+
+  @media (max-width: 768px) {
+      html {
+          font-size: 15px; /* 手机端略小一点 */
+      }
+  }
+
+  body {
+      font-family: "Noto Serif SC", "Source Han Serif SC", "Playfair Display", Georgia, serif;
+      color: #222;
+      background-color: #fff;
+      margin: 0;
+      padding: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+      font-family: "Playfair Display", Georgia, serif;
+      font-weight: 600;
+      line-height: 1.3;
+      color: #111;
+  }
+
+  h1 {
+      text-align: center;
+      font-size: 2.2rem;
+      margin: 2.5rem 0 1rem;
+  }
+
+  .meta {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 2rem;
+  }
+
+  article {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1rem;
+      font-size: 1rem;
+      line-height: 1.8;
+      text-align: justify;
+      word-break: break-word;
+  }
+
+  article p:lang(en),
+  article li:lang(en),
+  article blockquote:lang(en),
+  article h1:lang(en),
+  article h2:lang(en),
+  article h3:lang(en),
+  article h4:lang(en),
+  article h5:lang(en),
+  article h6:lang(en) {
+      font-family: 'Playfair Display', Georgia, serif;
+      line-height: 1.5;
+  }
+
+  article img {
+      display: block;
+      margin: 1.5em auto;
+      max-width: 95%;
+      border-radius: 8px;
+  }
+
+  blockquote {
+      border-left: 4px solid #ccc;
+      margin: 1.5em 0;
+      padding-left: 1em;
+      color: #555;
+      font-style: italic;
+  }
+
+  /* 手机端微调行距与留白 */
+  @media (max-width: 768px) {
+      article {
+          font-size: 1.05rem;
+          line-height: 1.75;
+      }
+      h1 {
+          font-size: 1.8rem;
+          margin-top: 2rem;
+      }
+  }
+</style>
+
+<h1>{{ .Title }}</h1>
+
+<div class="meta">
+    date: {{ .Date.Format "2006-01-02" }}<br>
+    edited: {{ with .Params.修改时间 }}{{ . }}{{ end }}
+</div>
+
+<article>{{ .Content }}</article>
+
+{{ end }}

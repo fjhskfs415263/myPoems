@@ -1,13 +1,14 @@
 ---
 aliases: 
 tags: 
-date: 2025-09-30
+date: "2025-09-27T06:19:00"
 修改时间: 2025-09-27 06:18
 language: 
 title: fear
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 
 I said I do not fear death,

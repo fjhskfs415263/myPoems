@@ -1,12 +1,13 @@
 ---
 aliases: 
 tags: 
-date: 2025-08-30
+date: "2025-08-30T00:00:00"
 language: 
 title: 23s birthday
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 You reach your birthday,
 taking another step into 23

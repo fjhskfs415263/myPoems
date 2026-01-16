@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-date: 2025-09-30
+date: "2025-09-25T06:37:00"
 修改时间: 2025-09-25 16:00
 language: en
 主题: 
@@ -9,18 +9,19 @@ title: come back where you belong
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 [[绝望-不可逆, 脆弱感]],[[内省]],[[多情绪杂糅]]
 
 You want to be free 
-As I once did.
+as I once did.
 You cried;
 Life has left you nothing but bruises.
 
 You showed me your wings,
 Transparent, fragile—
-A baby bird 
-Trembling with urgent longing.
+a baby bird 
+trembling with urgent longing.
 
 "Don't do it."
 That's what they told me.
@@ -30,7 +31,7 @@ I still don't.
 What's done is done.
 I followed that light for closure.
 Those who choose to fly
-Often find a deep hole waiting.
+often find a deep hole waiting.
 
 Maybe you'll understand one day.
 For now, wipe your tears;

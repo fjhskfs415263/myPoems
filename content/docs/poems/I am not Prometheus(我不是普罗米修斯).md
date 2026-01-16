@@ -1,13 +1,14 @@
 ---
 aliases: 
 tags: 
-date: 2025-08-02
+date: "2025-08-02T00:00:00"
 主题: "[[绝望-不可逆, 脆弱感]]"
 题纲: "[[痛,悲-承载,抵御痛苦]]"
 title: I am not Prometheus(我不是普罗米修斯)
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 
 她总能把错误转到我身上

@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-date: 2025-09-30
+date: "2025-09-18T14:01:00"
 修改时间: 2025-09-18 14:01
 language: 
 主题: "[[悲伤写法]]"
@@ -10,6 +10,7 @@ title: children of lir
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 swim across the pacific
 old and weary I am.

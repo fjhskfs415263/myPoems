@@ -1,9 +1,9 @@
 ---
 title: 剩菜(leftovers)
-date: 2025-09-30
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 In the old days, when poverty  
 still allowed a slice of meat,  

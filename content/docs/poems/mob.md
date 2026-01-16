@@ -1,9 +1,9 @@
 ---
 title: mob
-date: 2025-09-30
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 赶人就像赶狗
 用脚踢用拳头，用厉声呵斥

@@ -1,12 +1,13 @@
 ---
 aliases: 
 tags: 
-date: 2025-08-25
+date: "2025-08-25T00:00:00"
 language: cs
 title: mama妈妈
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 
 

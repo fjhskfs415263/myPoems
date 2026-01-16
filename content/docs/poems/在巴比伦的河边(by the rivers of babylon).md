@@ -1,12 +1,13 @@
 ---
 aliases: 
 tags: 
-date: 2025-08-26
+date: "2025-08-26T00:00:00"
 language: en
 title: 在巴比伦的河边(by the rivers of babylon)
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 My city was emptied by warriors,  
 and they also found  

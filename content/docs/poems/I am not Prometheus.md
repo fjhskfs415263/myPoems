@@ -1,11 +1,12 @@
 ---
 aliases: 
 tags: 
-date: 2025-08-02
+date: "2025-08-02T00:00:00"
 title: I am not Prometheus
 layout: single
 type: docs
 sidebar: true
+bookCollapseSection: true
 ---
 She always shifts the fault to me.  
 She slips a blade into the seams of Egypt’s pyramids.  
