@@ -56,7 +56,6 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 # 执行 Hugo 构建
-hugo --minify
 if ($LASTEXITCODE -ne 0) {
     Write-Host "❌ Hugo 构建失败，停止部署。" -ForegroundColor Red
     exit 1
