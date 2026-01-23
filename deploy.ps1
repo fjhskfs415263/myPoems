@@ -45,8 +45,14 @@ if ($LASTEXITCODE -ne 0) {
 Write-Host "==> Step 2: 清理旧文件并构建 Hugo" -ForegroundColor Cyan
 $PublicPath = Join-Path $RepoPath "public"
 if (Test-Path $PublicPath) {
-    # 强制清理 public 文件夹，确保生成最新内容
     Remove-Item -Recurse -Force $PublicPath -ErrorAction SilentlyContinue
+}
+
+# 加上 --buildFuture 参数，彻底无视时间差问题
+hugo --minify --buildFuture
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "❌ Hugo 构建失败。" -ForegroundColor Red
+    exit 1
 }
 
 # 执行 Hugo 构建
