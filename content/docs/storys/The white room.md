@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags: 
-date: "2026-02-14T10:00:00"
-修改时间: 2026-02-14 11:00
+date: "2026-02-13T10:00:00"
+修改时间: 2026-02-13 11:00
 language: 
 title: The white room
 layout: single
