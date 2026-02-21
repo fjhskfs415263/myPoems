@@ -4,6 +4,7 @@ layout: single
 type: docs
 sidebar: true
 bookCollapseSection: true
+date: "2025-08-04"
 ---
 赶人就像赶狗
 用脚踢用拳头，用厉声呵斥
@@ -24,4 +25,4 @@ bookCollapseSection: true
 从出生起就注定是个疲于奔命的孩子
 他们赶着把你送给另一个暴君
 
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

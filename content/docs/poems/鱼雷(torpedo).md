@@ -52,7 +52,4 @@ A shark’s pale grave,
 like a torpedo,  
 targets each of us.
 
-
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

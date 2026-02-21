@@ -23,4 +23,4 @@ The next day, her phone showed another man. Once you start down this path, wheth
 
 Lying in a modest inn, she watched him sleep—his body marked by age, his hair streaked with gray. The room was warm and humid, filled with the presence of human connection. At this age, people grew tired easily; moments of intimacy were brief and often unfulfilling. The most striking feeling came at the beginning—sharp, unfamiliar, soon dulling into mechanical repetition. Day after day, life itself felt repetitive. Even intimacy had become monotonous. What remained was only solitude. The world was full of numb, lonely people.
 
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

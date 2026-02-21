@@ -41,4 +41,4 @@ I walk out that door:
 cemetery, Elysian field.  
 I always depend on the kindness of the ticket.
 
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

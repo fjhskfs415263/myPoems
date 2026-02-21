@@ -8,6 +8,7 @@ layout: single
 type: docs
 sidebar: true
 bookCollapseSection: true
+date: "2025-10-04"
 ---
 done. I say.
 Everyone leaves,
@@ -52,8 +53,4 @@ And I shall leave now.
 
 ---
 
-
-
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

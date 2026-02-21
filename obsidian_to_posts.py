@@ -28,7 +28,7 @@ EXCLUDE_KEYWORDS = ["实验"]
 CATEGORY_MAPPING = {
     "01_poems": "poems",
     "02_故事": "storys",
-    "剧本": "plays",
+    "05_剧本": "plays",
     "04_articles": "articles"
 }
 

@@ -10,7 +10,6 @@ type: docs
 sidebar: true
 bookCollapseSection: true
 ---
-
 我不会称我无家可归
 至少我能天天望着它
 
@@ -48,8 +47,4 @@ bookCollapseSection: true
 风中响起
 《自新大陆》的酸涩
 
-
-
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

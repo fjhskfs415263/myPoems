@@ -10,7 +10,6 @@ type: docs
 sidebar: true
 bookCollapseSection: true
 ---
-
 I said I do not fear death,
 as poets and philosophers said,
 while storms approach.
@@ -40,6 +39,4 @@ and become infants again.
 The future—
 will it be without fear?
 
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

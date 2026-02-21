@@ -40,6 +40,4 @@ But what’s the point?
 I blaze like the sun.
 I am far beyond this world.
 
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

@@ -10,7 +10,6 @@ type: docs
 sidebar: true
 bookCollapseSection: true
 ---
-
 - I slid into this place,
   Up and down.
   a buoy forgotten in the sea.
@@ -34,4 +33,4 @@ bookCollapseSection: true
   I won't believe you.
 -
 
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

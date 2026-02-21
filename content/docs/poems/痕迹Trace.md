@@ -59,6 +59,4 @@ if I have only days left,
 I can still, at least,  
 set a few cups and plates straight.
 
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

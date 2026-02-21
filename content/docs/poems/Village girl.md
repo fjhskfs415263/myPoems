@@ -36,7 +36,4 @@ Time ticks—
 seize joy, seize what matters?
 Perhaps I’ll never learn.
 
-
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

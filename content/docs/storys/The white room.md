@@ -70,5 +70,4 @@ B呼吸着氨味, 酸和碱中和的气味
 感受着尿液的暖意慢慢变凉
 享受着这寂寥夜晚的新年礼物
 
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

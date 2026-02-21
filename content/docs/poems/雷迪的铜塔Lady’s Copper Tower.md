@@ -68,6 +68,4 @@ nor by my little flies,
 nor by the Furies of revenge—  
 by himself.
 
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

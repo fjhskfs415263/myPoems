@@ -10,7 +10,6 @@ type: docs
 sidebar: true
 bookCollapseSection: true
 ---
-
 她总能把错误转到我身上
 拿着小刀戳进埃及金字塔的石头缝隙
 她真心讲我也要真心听
@@ -25,5 +24,4 @@ bookCollapseSection: true
 脏器只有一副
 失去了就永远长不回来
 
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

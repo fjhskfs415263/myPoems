@@ -74,6 +74,4 @@ until the end.
 
 I think I have begun to live.
 
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

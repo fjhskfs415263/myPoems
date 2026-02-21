@@ -22,4 +22,4 @@ the wound will not be whole by morning.
 We have but one set of organs;  
 lose one, and it never grows back.
 
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

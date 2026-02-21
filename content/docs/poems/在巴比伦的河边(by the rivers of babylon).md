@@ -36,5 +36,4 @@ I hung the rope on a willow—
 those who live by exile  
 how could they fear to flee?
 
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

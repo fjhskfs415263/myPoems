@@ -10,7 +10,6 @@ type: docs
 sidebar: true
 bookCollapseSection: true
 ---
-
 The teacher once said —  
 nowadays, things are advanced:  
 even pigs die painlessly,  
@@ -68,5 +67,4 @@ Everyone will lick their lips,
 pat their bellies,  
 and praise this rebellious delicacy.
 
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

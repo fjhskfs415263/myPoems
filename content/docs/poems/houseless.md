@@ -53,6 +53,4 @@ and in the wind
 echoes the bitterness  
 of _From the New World._
 
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

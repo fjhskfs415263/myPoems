@@ -4,6 +4,7 @@ layout: single
 type: docs
 sidebar: true
 bookCollapseSection: true
+date: "2025-08-20"
 ---
 In the old days, when poverty  
 still allowed a slice of meat,  
@@ -38,4 +39,4 @@ the cicadas’ endless static.
 And you leave behind  
 a flat, irritating burp.
 
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0

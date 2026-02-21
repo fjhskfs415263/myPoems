@@ -9,7 +9,6 @@ type: docs
 sidebar: true
 bookCollapseSection: true
 ---
-
 People depict innocent girls
 picking primrose in the garden,
 until the flowers tumble from skirts 
@@ -133,9 +132,4 @@ I'll be 24 next month.
 
 ---
 
-
-
-
-
-
-© 2025 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
+© 2025-2026 [Violey Gleem]. Licensed under CC BY-NC-ND 4.0
