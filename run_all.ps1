@@ -8,7 +8,7 @@ Set-Location "F:\tools\web\myweb\bookblog"
 # ---------------------------
 Write-Host "Running obsidian_to_posts.py..."
 try {
-    python .\obsidian_to_posts.py
+    & python .\obsidian_to_posts.py
     if ($LASTEXITCODE -ne 0) {
         throw "obsidian_to_posts.py failed with exit code $LASTEXITCODE"
     }
