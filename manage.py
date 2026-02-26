@@ -127,7 +127,7 @@ def folder_to_category(folder_name: str):
 # ---------------------------
 # 3. 批量执行逻辑
 # ---------------------------
-ALLOWED_CATEGORIES = {"poems", "storys", "plays", "articles"}
+ALLOWED_CATEGORIES = {"poems", "stories", "plays", "articles"}
 
 print(f"🚀 Starting to process files from {POSTS_DIR}...")
 
